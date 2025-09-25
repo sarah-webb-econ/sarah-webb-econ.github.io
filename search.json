@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello and welcome to my website. I am a PhD candidate in Economics at the University of Maryland. I specialize in IO, with a particular interest in international trade. I also have papers in applied micro. I am on the 2025-2026 Job Market!"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Job Market Paper\n\n“Anti-Dumping Reaches the Grocery Store”\n\nAbstract: This paper examines the effect of a 2018 US anti-dumping (AD) duty against China on consumers, sellers, and trade flows of aluminum foil sold in grocery stores. Despite widespread documented circumvention of the policy (shipping to the US via 3rd party counties), reduced-form results show a ∼ 7% price increase caused by the imposition of AD duties for both foreign and domestic brands. A random coefficient logit model estimates demand allowing for the decomposition of prices into costs and markups. Notably, costs increases from the policy are seen for both foreign and domestic firms. Both marginal costs and markups both rise after the policy implying more than 100% pass-through of cost increases to prices. These price increases translate to a more than 10 percent decrease in consumer surplus each year. Compared to the no circumvention counterfactual, the model suggests at most 50% of price increases from the policy are mitigated by circumvention. Domestic industry-level statistics reveal unchanging sales and employment over the study period. Overall, the paper is a timely illustration of how AD laws can have direct impacts on consumer prices and producer costs, and it provides a benchmark for how much circumvention of import taxes reduces harm to consumers.\nDraft Available: 1st Nov 2025\n\n\n\n\nWorking Papers\n\n“Korean Peninsula 1945-1950: Are there long-run e!ects of short-term Governments in Korea?”\nSolo-authored - under review\n\nAbstract: This paper inspects the regions defined between the 38th parallel north and the DMZ on the Korean peninsula. These areas were governed by “different Koreas” from 1945-1950 and after 1953. Using nighttime lights data and geolocated population estimates, RD and OLS analysis find that there is (i.) no economic discontinuities at the 38th parallel, (ii.) that the region in the present-day DPRK which was presided over by the ROK from 1945-1950 is associated with significantly higher economic activity per-capita than similar regions of the country, and (iii.) that economic activity and per-capita economic activity in the DPRK is concentrated around the 38th parallel.\nPDF\n\n\n\nWorks in Progress\n\n“Importing What You Can’t See: Investigating Trade-Induced Adverse Selection.”\n“Getting Anti-dumped: Market Structure of Exporting Firms.”\nwith Jean-François Fournel\n“Recreational Marajuana Laws and Over-the-Counter Painkillers.”\nwith Janghyeok An"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Webb",
+    "section": "",
+    "text": "Hello and welcome to my website!\nI am a PhD candidate in the Department of Economics at the University of Maryland advised by Andrew Sweeting and Chenyu Yang. I specialize in IO, with a slant towards international trade. I also have papers in applied micro. I am on the 2025-2026 Job Market.\nI can be reached at: swebb8@umd.edu"
+  }
+]

@@ -1,5 +1,0 @@
----
-title: "About Me"
----
-
-Hello and welcome to my website. I am a PhD candidate in Economics at the University of Maryland. I specialize in IO, with a particular interest in international trade. I also have papers in applied micro. I am on the 2025-2026 Job Market!
